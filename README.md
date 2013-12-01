@@ -1,4 +1,4 @@
 Code-Academy-Ruby-course
 ========================
 
-This are exercises from the code academy ruby course.
+I'll be putting exercises from the code academy ruby course on this repo.
